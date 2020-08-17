@@ -1,15 +1,15 @@
 import firebase from "firebase";
 import 'firebase/firestore'
 
-const firebaseConfig = {
-    apiKey: "AIzaSyAVLSTrTdcHDsF1cbsK1EHLPU-vpjER7nI",
-    authDomain: "greenleaf-102d3.firebaseapp.com",
-    databaseURL: "https://greenleaf-102d3.firebaseio.com",
-    projectId: "greenleaf-102d3",
-    storageBucket: "greenleaf-102d3.appspot.com",
-    messagingSenderId: "566767116783",
-    appId: "1:566767116783:web:2854cdb882897fa423161a",
-    measurementId: "G-QW9Z16HT62"
+var firebaseConfig = {
+    apiKey: "AIzaSyCVHAcfKkY2ro_IL4OPYlDmsDFOwUg6GHM",
+    authDomain: "greenleaf-2.firebaseapp.com",
+    databaseURL: "https://greenleaf-2.firebaseio.com",
+    projectId: "greenleaf-2",
+    storageBucket: "greenleaf-2.appspot.com",
+    messagingSenderId: "110054249085",
+    appId: "1:110054249085:web:b411544d0ca889fdb85714",
+    measurementId: "G-CCJWTLFP4B"
 };
 firebase.initializeApp(firebaseConfig)
 
